@@ -24,10 +24,16 @@ public class Exercicio02 {
 
         System.out.println("O valor do orçamento anual do departamento 1986 da empresa é: "+calculaOrcamentoAnual(funcionarios));
 
+
+        AuxiliarEscritorio.salarioAnualAux();
+
     }
 
+
+
+
     private static double calculaOrcamentoAnual(List<Funcionario> funcionarios) {
-        // TODO: implemente o código deste método
-        return 0.0;
+
+        return null;
     }
 }
